@@ -1,0 +1,23 @@
+# QuickChat - Part 2
+
+This project is developed for the PROG5121 Programming Assignment (Part 2).
+
+## Features
+- User registration and login
+- Menu-driven console application
+- Send messages
+- Disregard messages
+- Store messages in JSON file
+- Message ID generation
+- Message hash generation
+- Unit testing with JUnit
+
+## Menu Options
+1. Send Messages
+2. Show recently sent messages (Coming Soon)
+3. Quit
+
+## Notes
+- Users must log in before sending messages
+- Messages are limited based on user input
+- Message hash uses first and last words (uppercase)
