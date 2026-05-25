@@ -21,3 +21,13 @@ This project is developed for the PROG5121 Programming Assignment (Part 2).
 - Users must log in before sending messages
 - Messages are limited based on user input
 - Message hash uses first and last words (uppercase)
+
+## Submission
+This contains the completed Part 2 requirements only.
+
+All features have been implemented, including:
+- Login integration
+- Message handling
+- Message hash generation
+- JSON storage
+- Unit testing
